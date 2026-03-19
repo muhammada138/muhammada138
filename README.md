@@ -1,5 +1,3 @@
-# Hi there! 👋
-
 I'm a Computer Science student focused on software development, data logic, and building functional applications. My primary drive is leveraging core programming principles to explore the fields of Artificial Intelligence and Machine Learning.
 
 ### 💻 Technical Strengths & Focus
