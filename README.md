@@ -12,9 +12,6 @@ I'm a **Computer Science Student** and developer passionate about building funct
 - **Infrastructure:** Linux (Ubuntu), Oracle Cloud, Game Server Management
 - **Interests:** Data Structures, Web Development, Physics (Double-slit enthusiast)
 
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammada138&show_icons=true&theme=radical)
-
 ### 🤝 Let's Connect
 - 🔭 I’m currently looking for summer opportunities in software development.
 - 🎲 Fun fact: When I'm not coding, I'm likely playing D&D or playing *League of Legends*.
