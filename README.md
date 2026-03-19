@@ -1,13 +1,13 @@
 # 👨‍💻 Muhammad Abdullah
 
-> **Computer Science Student | System Admin Enthusiast | Problem Solver**
+> **Computer Science Student**
 
 ---
 
 ### 🚀 At a Glance
-- 🎓 **Focus:** Currently mastering **Data Structures (CMPT 280)** and **System Design (CMPT 270)**.
+- 🎓 **Focus:** Currently mastering **Data Structures** and **System Design**.
 - ☁️ **Cloud:** Deploying and maintaining Linux environments on **Oracle Cloud**.
-- 🛠️ **DevOps:** Passionate about server optimization and automation.
+- 🛠️ **DevOps:** Passionate about server frontend and backend Development!**
 
 ### 🛠️ Technical Arsenal
 | Category | Stack |
