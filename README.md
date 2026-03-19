@@ -1,31 +1,21 @@
-# 👨‍💻 Muhammad Abdullah
+# Hi there! 👋
 
-> **Computer Science Student**
+I'm a Computer Science student focused on software development, data logic, and building functional applications. My primary drive is leveraging core programming principles to explore the fields of Artificial Intelligence and Machine Learning.
 
----
+### 💻 Technical Strengths & Focus
+* **Core Languages:** Strong foundation in **Python** and **Java**.
+* **Current Trajectory:** Actively exploring **Artificial Intelligence**, Machine Learning concepts, and data-driven systems.
+* **Academic Background:** Solid grasp of Data Structures, Object-Oriented Programming, and Statistical Computing (R).
+* **Development:** Experience designing and implementing backend architecture.
 
-### 🚀 At a Glance
-- 🎓 **Focus:** Currently mastering **Data Structures** and **System Design**.
-- ☁️ **Cloud:** Deploying and maintaining Linux environments on **Oracle Cloud**.
-- 🛠️ **DevOps:** Passionate about server frontend and backend Development!**
+### 🚀 What I'm Working On
+* Studying how AI models are trained, evaluate data, and make decisions.
+* Applying algorithmic thinking and object-oriented design to solve complex problems.
+* Refining my backend development workflows and coding efficiency.
 
-### 🛠️ Technical Arsenal
-| Category | Stack |
-| :--- | :--- |
-| **Languages** | Java, R, Python, Bash |
-| **Environment** | Ubuntu Server, Oracle Cloud, Git |
-| **Interests** | OOP, Game Infrastructure, Physics, Data Analysis |
+### 🎮 Beyond the Code
+* **Competitive Gaming:** Massive fan of **League of Legends** and **Rocket League**. I’m highly interested in the data metrics, matchmaking logic, and AI that power competitive esports.
+* **Other Interests:** Always up for a conversation about quantum physics, new tech trends, or the current gaming meta.
 
-### 📂 Highlighted Repositories
-* **[Project Name]** - *Briefly describe a Java or Server project here.*
-* **[Project Name]** - *Describe your R or Statistics project here.*
-
----
-
-### 🎲 Beyond the Code
-- ⚔️ **D&D:** Currently adventuring in a homebrew campaign.
-- 📺 **Anime:** Big fan of *Attack on Titan* (ask me about the ending).
-- 🌌 **Gaming:** Lover of Video Games such as League of Legends!
-
----
-*"Dedicated to the pursuit of efficient systems and elegant code."*
+### 📫 Let's Connect
+* I'm always open to discussing AI concepts, backend development opportunities, or collaborating on a project.
