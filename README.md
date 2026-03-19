@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Muhammad! 👋
 
-<!--
-**muhammada138/muhammada138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Science Student** and developer passionate about building functional systems, managing game infrastructure, and exploring the intersection of code and logic.
 
-Here are some ideas to get you started:
+### 🚀 What I'm working on
+- 🎓 **University:** Currently tackling **CMPT 280 (Data Structures)** and **CMPT 270 (Object-Oriented Systems)**.
+- 💻 **Web Dev:** Building clean, backend-integrated applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Languages:** Java, R, Python, JavaScript
+- **Dev Tools:** Git, GitHub, VS Code, IntelliJ
+- **Infrastructure:** Linux (Ubuntu), Oracle Cloud, Game Server Management
+- **Interests:** Data Structures, Web Development, Physics (Double-slit enthusiast)
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammada138&show_icons=true&theme=radical)
+
+### 🤝 Let's Connect
+- 🔭 I’m currently looking for summer opportunities in software development.
+- 🎲 Fun fact: When I'm not coding, I'm likely playing D&D or playing *League of Legends*.
+
+---
+*"The world is cruel, but also very beautiful."*
