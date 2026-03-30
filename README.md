@@ -1,6 +1,6 @@
 # hey, I'm Muhammad 👋
 
-CS student who builds things at the intersection of AI and full-stack development. I like making apps that are actually useful — not just demo projects.
+I'm a 2nd-year Computer Science Student in Calgary Alberta!
 
 ## 📫 Let's Connect
 
@@ -9,9 +9,9 @@ CS student who builds things at the intersection of AI and full-stack developmen
 
 ## 🎮 Beyond the Code
 
-- Currently feeding the ranked grind in **League of Legends** (and building apps to justify it)
 - Interested in the data, matchmaking logic, and AI behind competitive esports
 - Always down to talk quantum physics, tech trends, or the current meta
+- I (unfortunately) play League of Legends
 
 ## 🛠️ Tech
 
