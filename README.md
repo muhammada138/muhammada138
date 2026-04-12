@@ -42,6 +42,10 @@ I'm a 2nd-year Computer Science Student in Calgary Alberta!
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-000000?style=for-the-badge)
+![Cryptography](https://img.shields.io/badge/Cryptography-blue?style=for-the-badge)
+![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-orange?style=for-the-badge)
+![PyInstaller](https://img.shields.io/badge/PyInstaller-gray?style=for-the-badge)
 
 **Databases**
 
