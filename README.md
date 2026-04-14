@@ -1,6 +1,6 @@
 # hey, I'm Muhammad 👋
 
-I'm a 2nd-year Computer Science Student in Calgary Alberta!
+2nd-year CS student building and deploying full-stack applications — Django, FastAPI, React — on Oracle Cloud with CI/CD pipelines.
 
 ## 📫 Let's Connect
 
