@@ -1,6 +1,6 @@
 # hey, I'm Muhammad 👋
 
-2nd-year CS student building and deploying full-stack applications — Django, FastAPI, React — on Oracle Cloud with CI/CD pipelines.
+2nd-year CS student building and deploying full-stack applications - Django, FastAPI, React - on Oracle Cloud with CI/CD pipelines.
 
 ## 📫 Let's Connect
 
