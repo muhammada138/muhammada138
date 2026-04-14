@@ -5,6 +5,7 @@
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammada138/)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:muhammada138@hotmail.com)
 
 ## 🎮 Beyond the Code
 
