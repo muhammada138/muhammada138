@@ -1,6 +1,6 @@
 # hey, I'm Muhammad 👋
 
-A dedicated computer science student focused on building and deploying high-performance full-stack applications. My work involves creating complex systems using modern frameworks like Django, FastAPI, and React, with a strong emphasis on automation and reliable cloud infrastructure.
+A dedicated computer science student focused on building and deploying high-performance full-stack applications. My work involves creating complex systems using modern frameworks like Django, FastAPI, and React, with a strong emphasis on automation and reliable cloud infrastructure
 
 ## 📫 Let's Connect
 
